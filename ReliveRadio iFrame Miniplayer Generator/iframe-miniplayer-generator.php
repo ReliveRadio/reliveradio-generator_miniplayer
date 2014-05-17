@@ -252,7 +252,7 @@ if ('' != $_POST['bottom']) { echo 'Bottom: <b>'.$_POST['bottom'] .'</b><br />';
 		 if ('' != $_POST['right']) { echo 'margin-right:'.$_POST['right'] . ';'; }  
 		 if ('' != $_POST['top']) { echo 'margin-top:'.$_POST['top'] . ';'; }  
 		 if ('' != $_POST['bottom']) { echo 'margin-bottom:'.$_POST['bottom'] . ';'; } 
-		 ?> background: url(./green.png);" src="http://cm.wikibyte.org/testcodes/neu-chapters/standalone-mini.php?stream=<?php 
+		 ?> background: url(./green.png);" src="http://liveplayer.reliveradio.de/standalone-live-playerapi/standalone-mini.php?stream=<?php 
 		 echo $_POST['stream']; 
 		  
 		 if ('' != $_POST['style']) { echo '&css='.$_POST['style']; } 
@@ -270,6 +270,6 @@ if ('' != $_POST['bottom']) { echo 'Bottom: <b>'.$_POST['bottom'] .'</b><br />';
 <?php } ?>
 
 <a style="bottom:0; position: absolute; margin-bottom:20px;" 
-href="https://github.com/McCouman/ReliveRadio-iFrame-Miniplayer-Generator">Finde mehr auf Github</a>
+href="https://github.com/ReliveRadio/reliveradio-generator_miniplayer">Finde mehr auf Github</a>
 </body>
 </html>

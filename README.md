@@ -3,6 +3,8 @@ iFrame Generator für den Miniplayer
 
 <img src="https://raw.github.com/ReliveRadio/reliveradio-generator_miniplayer/master/screenshot.png">
 
+Version 1.1.0
+
 ####Developer:
 <pre>
 @idea Michael Kaufmann (aka Michael McCouman Jr.)
