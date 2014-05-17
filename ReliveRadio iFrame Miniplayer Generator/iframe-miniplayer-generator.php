@@ -220,7 +220,7 @@ font-size: 13px; border: 1px solid #cccccc;">
 		 if ('' != $_POST['right']) { echo 'margin-right:'.$_POST['right'] . ';'; }  
 		 if ('' != $_POST['top']) { echo 'margin-top:'.$_POST['top'] . ';'; }  
 		 if ('' != $_POST['bottom']) { echo 'margin-bottom:'.$_POST['bottom'] . ';'; } 
-		 ?>" src="http://cm.wikibyte.org/testcodes/neu-chapters/standalone-mini.php?stream=<?php 
+		 ?>" src="http://liveplayer.reliveradio.de/standalone-live-playerapi/standalone-mini.php?stream=<?php 
 		 echo $_POST['stream']; 
 		  
 		 if ('' != $_POST['style']) { echo '&css='.$_POST['style']; } 
