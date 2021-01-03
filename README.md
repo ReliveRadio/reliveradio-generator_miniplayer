@@ -7,7 +7,7 @@ iFrame Generator für den Miniplayer
 
 Version 1.1.0
 
-####Developer:
+#### Developer:
 <pre>
 @idea Michael Kaufmann (aka Michael McCouman Jr.)
 @developer Michael Kaufmann (aka Michael McCouman Jr.)
@@ -15,7 +15,7 @@ Version 1.1.0
 @source for ReliveRadio.de
 </pre>
 
-###Unterstützen:
+### Unterstützen:
 
 <a href="http://flattr.com/thing/973782/ReliveRadio-de-Podcasts-rund-um-die-Uhr">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
